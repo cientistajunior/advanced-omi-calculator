@@ -7,7 +7,7 @@
 
 <img src="https://flagcdn.com/w20/br.png" alt="Brazil Flag" width="20"> 🇧🇷 Português (Brasil)
 
-![alt text](image.png)
+
 #  Calculadora Omi Avançada
 ### Aqui vamos calcular aiz quadrada, porcentagem, tabuada, converao de medida e um desafio de fibonacci.
 
