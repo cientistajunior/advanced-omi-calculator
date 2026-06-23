@@ -17,3 +17,40 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
+
+main {
+    background-color: #fff;
+    padding: 3rem;
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.result {
+    background: #a0a0a0;
+    text-align: right;
+    font-size: 3rem;
+    min-height: 15rem;
+    padding: 2rem;
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border: .3rem solid #000;
+    border-radius: 1rem;
+}
+
+.calculator-grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+    width: 100%;
+}
+
